@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ReadingJSON</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="textview_json">TAP TO FETCH JSON</string>
+    <string name="button_get">Get JSON</string>
+    <string name="title_activity_parse_json">ParseJSON</string>
+    <string name="textview_id">id</string>
+    <string name="textview_username">username</string>
+    <string name="textview_password">password</string>
+    <string name="button_previous">Previous</string>
+    <string name="button_next">Next</string>
+</resources>
